@@ -125,8 +125,6 @@ ASSISTANT_NAME=Jarvis
 VOICE_RATE=200
 VOICE_VOLUME=0.9
 MUSIC_DIR=C:\Music
-DOWNLOADS_DIR=C:\Users\nanda\Downloads
-DOCUMENTS_DIR=C:\Users\nanda\Documents
 ```
 
 ---
