@@ -36,7 +36,7 @@ A comprehensive voice assistant built with Python that integrates Google's Gemin
    ```
    git clone https://github.com/Nandan-D14/voice-assistant-project.git
    cd voice-assistant-project
-````
+   ```
 
 2. **Install dependencies**
 
